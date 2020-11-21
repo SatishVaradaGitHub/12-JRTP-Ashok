@@ -1,0 +1,3 @@
+class stish{
+
+dn	jnlnerng
